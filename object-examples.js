@@ -10,3 +10,9 @@ var animal = {
   trained: true,
   weight: 66
 };
+
+var customer = {
+  name: "Chad",
+  age: 36,
+  vip: true
+};
